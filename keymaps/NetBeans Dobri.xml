@@ -15,6 +15,9 @@
     <keyboard-shortcut first-keystroke="ctrl q" />
     <mouse-shortcut keystroke="control button3" />
   </action>
+  <action id="RebuildGradleProject">
+    <keyboard-shortcut first-keystroke="shift ctrl f11" />
+  </action>
   <action id="UpdateRunningApplication" />
   <action id="android.deploy.ApplyChanges">
     <keyboard-shortcut first-keystroke="ctrl f10" />
